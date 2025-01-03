@@ -1,0 +1,1 @@
+const splashEndPoint ="now_playing?";
